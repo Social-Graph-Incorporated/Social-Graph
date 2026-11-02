@@ -1,0 +1,5 @@
+id,type,neighbors,added,removed
+alice,P,"bob,carol",,
+bob,T,"alice,dave",,
+carol,M,"alice",,
+dave,S,"bob",,
